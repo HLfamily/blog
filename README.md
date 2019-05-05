@@ -1,4 +1,4 @@
-目录：
+目录：https://github.com/livoras/blog/issues/13#issue-118253129
 1 前言
 2 对前端应用状态管理思考
 3 Virtual DOM 算法
